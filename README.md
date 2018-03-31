@@ -5,7 +5,7 @@ I did 2 visualizations then made a final visualization by combining both.
 
 #Tableau Initial Link : https://public.tableau.com/profile/gaurav.negi4036#!/vizhome/BaseballAnalysis_v2/Story2
 
-#Tableau Initial Link : https://public.tableau.com/profile/gaurav.negi4036#!/vizhome/BaseballAnalysis_v2_Final/BaseBallAnalysis?publish=yes
+#Tableau Final Link : https://public.tableau.com/profile/gaurav.negi4036#!/vizhome/BaseballAnalysis_v2_Final/BaseBallAnalysis?publish=yes
 
 ##Summary
 
