@@ -20,23 +20,23 @@ Data set containing 1,157 baseball players. I will create visualization to analy
 
 ## Feedback
 
-***1) 'Worst' quadrant is not necessarily the worst! These people have high batting averages but they have few home runs - is that necessarily a bad thing? These players can hit lots of singles, doubles, and triple which are definitely good! In line with this, the consistent group includes people that have 0 home runs and 0 batting average! While that is consistent, shouldn't they be considered the worst?
+**1) 'Worst' quadrant is not necessarily the worst! These people have high batting averages but they have few home runs - is that necessarily a bad thing? These players can hit lots of singles, doubles, and triple which are definitely good! In line with this, the consistent group includes people that have 0 home runs and 0 batting average! While that is consistent, shouldn't they be considered the worst?**
 
   Action:     I changed the calculated field and corrected the quadrants for all categories.
   
- ***2) I would recommend adding a large title to your histograms of weight and height - they follow similar trends and use the same color scheme - it actually took me a little time to realize that they were different! I know you wrote in the caption and the x-axis weight/height but honestly the font is quite small.
+ **2) I would recommend adding a large title to your histograms of weight and height - they follow similar trends and use the same color scheme - it actually took me a little time to realize that they were different! I know you wrote in the caption and the x-axis weight/height but honestly the font is quite small.**
   
   Action:     I changed the color scheme and font size for both "Performance By weight ratio" and "Performance by height ratio"
   
-  ***3) Having to scroll evrytime is not good.
+  **3) Having to scroll evrytime is not good.**
     
     Action:     Changed the story size to Automatic
     
-  ***4) You should add some formatting to filters also
+  **4) You should add some formatting to filters also**
     
     Action:     I changed the font size of filters and also added different color schemes to filters for better visual.
   
- ***5) Your visualizations are great. In order to evaluate this section we also need to compare your initial design to final design (after feedback revision) therefore for the next submission, please include 2 links in your write-up, one for the initial design and one for the final version and also please document the changes you've made more in detail in the write-up. 
+ **5) Your visualizations are great. In order to evaluate this section we also need to compare your initial design to final design (after feedback revision) therefore for the next submission, please include 2 links in your write-up, one for the initial design and one for the final version and also please document the changes you've made more in detail in the write-up.** 
     
     Action:    I created final story seperately and added both the links.
     
