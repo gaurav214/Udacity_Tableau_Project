@@ -34,11 +34,11 @@ Data set containing 1,157 baseball players. I will create visualization to analy
     
   **4) You should add some formatting to filters also**
     
-    Action:     I changed the font size of filters and also added different color schemes to filters for better visual.
+    Action:    Changed the font size of filters and also added different color schemes to filters for better visual.
   
  **5) Your visualizations are great. In order to evaluate this section we also need to compare your initial design to final design (after feedback revision) therefore for the next submission, please include 2 links in your write-up, one for the initial design and one for the final version and also please document the changes you've made more in detail in the write-up.** 
     
-    Action:    I created final story seperately and added both the links.
+    Action:    Created final story seperately and added both the links.
     
  ## Resource
  
